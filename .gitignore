@@ -1,5 +1,6 @@
 .mdc
 impl/*
+*.gprj.user
 
 # MDC configurations
 *mdc_config.yml
